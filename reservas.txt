@@ -1,0 +1,9 @@
+1 simple Dan Carlton 90.0
+2 doble Dan Carlton 120.0
+3 triple Dan Carlton 160.0
+4 simple Swissotel 65.0
+5 doble Swissotel 100.0
+6 triple Swissotel 140.0
+7 simple Sheraton 85.0
+8 doble Sheraton 110.0
+9 triple Sheraton 150.0
